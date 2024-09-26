@@ -1,0 +1,17 @@
+.content {
+	box-sizing: border-box;
+	min-height: 100%;
+	padding-bottom: 90px;
+} 
+.footer {
+	height: 80px;
+	margin-top: -80px;
+} */
+div {
+    word-wrap: break-word;
+    width: 900px;
+ }
+ /* h4 {
+  font-variant: small-caps;
+  font-size: 40px
+} */
